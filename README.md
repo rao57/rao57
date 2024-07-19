@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaswanth Kollipara</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
